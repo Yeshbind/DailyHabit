@@ -15,8 +15,3 @@ Log your daily habits, visualize weekly progress, and build better routines with
 👉 [https://dailyhabittracker.streamlit.app/](https://dailyhabittracker.streamlit.app/)
 
 ---
-
-## 📸 Preview
-
-> *(Optional)* Add screenshots by uploading them to an `assets/` folder in your repo and linking them here.
-
